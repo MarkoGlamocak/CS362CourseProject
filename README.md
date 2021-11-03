@@ -14,3 +14,9 @@
      - We will have two actions the car can do: move forward and adjust.
 
  ###### Marko
+
+ Today I will be looking at how to construct the car that will be picking up tennis balls. Questions I will try to resolve:
+
+     - How can we progragramtically and mechanically make the car move forward?
+     - How can we progragramtically and mechanically make the car turn a certain amount of degrees?
+     - How can we propell the ball into a collection basket?
