@@ -1,9 +1,6 @@
 # CS362CourseProject
  Marko Glamocak and Luka Djogo Course Project For CS 362
 
-
-
-
 ### Question Categories
 ##### Webcam Ball Identification
      1. How can we unpack photos using an arduino that isn't computationally demanding? 
